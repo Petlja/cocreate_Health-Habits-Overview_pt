@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Прилози и линкови
+# Anexos e ligações
 
 ```{toctree}
 :maxdepth: 2
