@@ -36,7 +36,3 @@ Lembrete para uma boa colaboração em grupo
 - Apresentação — 10 pontos
 
 
-## Link para o local de publicação das infografias
-
-[Ver trabalhos ou publicar o seu](https://shorturl.at/wG4WQ)
-
