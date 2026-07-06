@@ -1,8 +1,10 @@
-﻿# Sobre a lição
+# Sobre a lição
+
+No trabalho com dados, o maior desafio frequentemente não é a coleta, mas sim compreender o seu significado. As tabelas muitas vezes contêm centenas de linhas, mas as respostas para as perguntas que nos interessam não são sempre visíveis à primeira vista. Para identificarmos padrões e tirarmos conclusões, precisamos de uma forma de organizar rapidamente os dados e vê-los de diferentes ângulos.
 
 ## Objetivos, resultados e tempo de realização
 
-**Tempo necessário:** 2 aulas (90 minutos)
+**Tempo necessário:** 3 aulas (135 minutos)
 
 ### Objetivos
 - Desenvolver a capacidade de análise de dados com tabelas dinâmicas no Microsoft Excel.
@@ -19,14 +21,11 @@ Ao final desta lição, os alunos serão capazes de:
 - respeitar opiniões diferentes e cultivar uma comunicação construtiva na equipe,
 - apresentar as conclusões do grupo de forma clara e confiante, com apoio de visualizações de dados.
 
-No trabalho com dados, o maior desafio frequentemente não é a coleta, mas sim compreender o seu significado. As tabelas muitas vezes contêm centenas de linhas, mas as respostas para as perguntas que realmente nos interessam nem sempre são visíveis à primeira vista. Para identificar padrões, comparar valores e tirar conclusões, precisamos de uma forma de organizar rapidamente os dados e observá-los sob diferentes perspectivas.
+A atividade H2O (*Health Habits Observation*) tem como objetivo mostrar, através de um exemplo próximo a vocês, como é possível transformar dados em informações úteis. Trabalharão com dados reais sobre hábitos de alimentação, exercício, uso de telefone, contatos sociais e sono, que vocês mesmos coletarão e usarão tabelas dinâmicas e gráficos dinâmicos para analisar e visualizar (o questionário para coleta de dados está na última seção – Apêndices). Dessa forma, verão como o mesmo conjunto de dados pode responder a diferentes perguntas – dependendo de como o organizamos.
 
-A atividade H2O (*Health Habits Observation*) tem como objetivo mostrar, através de um exemplo próximo a vocês, como é possível transformar dados em informações úteis. Trabalharão com dados reais sobre hábitos alimentares, exercício físico, uso do telemóvel, socialização e sono, que vocês mesmos irão recolher, e utilizarão tabelas dinâmicas e gráficos dinâmicos para os analisar e visualizar (o questionário de recolha de dados encontra-se no último bloco – Anexos). Dessa forma, verão como o mesmo conjunto de dados pode responder a perguntas diferentes — dependendo de como o organizamos.
-
-
-![Uvodna slika](images/uvod.png)
+![Imagem introdutória](images/uvod.png)
     
-Além da habilidade técnica, esta atividade também deve servir para desenvolver capacidades de pensamento analítico, como formular perguntas, escolher formas de apresentação dos dados e interpretar resultados. No mundo moderno, onde as decisões são cada vez mais baseadas em dados, compreender essas ferramentas representa uma parte importante da literacia digital.
+Além da habilidade técnica, esta atividade também deve servir para desenvolver capacidades de pensamento analítico, como formular perguntas, escolher formas de apresentação dos dados e interpretação de resultados. No mundo atual, onde as decisões são cada vez mais baseadas em dados, compreender essas ferramentas é uma parte importante da alfabetização digital.
 
 A seguir, você aprenderá:
 - o que é uma tabela dinâmica e como se diferencia de uma tabela comum,
@@ -37,7 +36,3 @@ A seguir, você aprenderá:
 ```{infonote}
 O objetivo desta lição não é apenas criar uma tabela dinâmica, mas compreender como os dados se tornam informação.
 ```
-
-
-
-
